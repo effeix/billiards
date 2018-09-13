@@ -1,0 +1,18 @@
+\begin{table}[]
+\begin{tabular}{@{}|c|l|l|@{}}
+\toprule
+\multicolumn{1}{|l|}{Executável} & Número de Bolas & Tempo (s) \\ \midrule
+Sequencial                       & 100             & 0.17      \\ \midrule
+Sequencial                       & 200             & 0.15      \\ \midrule
+Sequencial                       & 500             & 0.40      \\ \midrule
+Sequencial                       & 1000            & 2.01      \\ \midrule
+Sequencial                       & 2000            & 3.08      \\ \midrule
+Sequencial                       & 4000            & 11.07     \\ \midrule
+Sequencial                       & 6000            & 21.29     \\ \midrule
+Sequencial                       & 8000            & 32.98     \\ \midrule
+\multicolumn{1}{|l|}{Sequencial} & 10000           & 58.19     \\ \midrule
+\multicolumn{1}{|l|}{Sequencial} & 20000           &           \\ \midrule
+\multicolumn{1}{|l|}{Sequencial} & 30000           &           \\ \midrule
+\multicolumn{1}{|l|}{Sequencial} & 50000           &           \\ \bottomrule
+\end{tabular}
+\end{table}
